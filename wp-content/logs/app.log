@@ -1,0 +1,281 @@
+
+07-05-2024 09:07:54 [www.onlyup.website][info] Parent plugin start installation!
+07-05-2024 09:07:54 [www.onlyup.website][info] Plugin installation: try create plugin tables.
+																	-DB Version: 0
+																	-Plugin Version in DB: 0
+																	-Current Plugin Version: 1.6.9
+07-05-2024 09:07:54 [www.onlyup.website][info] Parent plugin installation complete!
+-------------------------------
+07-05-2024 09:13:58 [www.onlyup.website][info] Start cron job. Scope: media-library
+07-05-2024 09:13:58 [www.onlyup.website][info] Try to create backup directory. Backup dir: (/home/ji533578/onlyup.website/www/wp-content/uploads/wio_backup)
+07-05-2024 09:13:58 [www.onlyup.website][info] Preparing to upload a file (/home/ji533578/onlyup.website/www/wp-content/uploads/woocommerce-placeholder.png) to a remote server (server_1).
+07-05-2024 09:13:58 [www.onlyup.website][info] File successfully uploaded to remote server (server_1).
+07-05-2024 09:13:58 [www.onlyup.website][info] Preparing to upload a file (/home/ji533578/onlyup.website/www/wp-content/uploads/woocommerce-placeholder-150x150.png) to a remote server (server_1).
+07-05-2024 09:13:59 [www.onlyup.website][info] File successfully uploaded to remote server (server_1).
+07-05-2024 09:13:59 [www.onlyup.website][info] Preparing to upload a file (/home/ji533578/onlyup.website/www/wp-content/uploads/woocommerce-placeholder-300x300.png) to a remote server (server_1).
+07-05-2024 09:13:59 [www.onlyup.website][info] File successfully uploaded to remote server (server_1).
+07-05-2024 09:13:59 [www.onlyup.website][debug] New queue created #1, attributes values: {"server_id":null,"object_id":"6","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":116957,"final_size":84796,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":102644,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715062439}
+07-05-2024 09:13:59 [www.onlyup.website][info] Try to create backup directory. Backup dir: (/home/ji533578/onlyup.website/www/wp-content/uploads/wio_backup/2022/11)
+07-05-2024 09:13:59 [www.onlyup.website][info] Preparing to upload a file (/home/ji533578/onlyup.website/www/wp-content/uploads/2022/11/earth-store-testimonial-avatar-img.jpeg) to a remote server (server_1).
+07-05-2024 09:13:59 [www.onlyup.website][info] File successfully uploaded to remote server (server_1).
+07-05-2024 09:13:59 [www.onlyup.website][debug] New queue created #2, attributes values: {"server_id":null,"object_id":"1238","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":1621,"final_size":1289,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":1621,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715062439}
+07-05-2024 09:13:59 [www.onlyup.website][info] Preparing to upload a file (/home/ji533578/onlyup.website/www/wp-content/uploads/2022/11/earth-store-testimonials-avatar-img-1.jpeg) to a remote server (server_1).
+07-05-2024 09:13:59 [www.onlyup.website][info] File successfully uploaded to remote server (server_1).
+07-05-2024 09:13:59 [www.onlyup.website][debug] New queue created #3, attributes values: {"server_id":null,"object_id":"1239","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":1817,"final_size":1411,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":1817,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715062439}
+07-05-2024 09:13:59 [www.onlyup.website][info] End cron job. Scope: media-library
+-------------------------------
+07-05-2024 09:15:21 [www.onlyup.website][info] Start bulk optimization process! Scope: media-library
+07-05-2024 09:15:21 [www.onlyup.website][info] Preparing to upload a file (/home/ji533578/onlyup.website/www/wp-content/uploads/2022/11/earth-store-testimonials-avatar-img-2.jpeg) to a remote server (server_1).
+07-05-2024 09:15:21 [www.onlyup.website][info] File successfully uploaded to remote server (server_1).
+07-05-2024 09:15:21 [www.onlyup.website][debug] New queue created #4, attributes values: {"server_id":null,"object_id":"1240","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":2086,"final_size":1555,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":2086,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715062521}
+07-05-2024 09:15:21 [www.onlyup.website][info] End bulk optimization process! Scope: media-library. Remain: 26
+-------------------------------
+07-05-2024 09:15:22 [www.onlyup.website][info] Start bulk optimization process! Scope: media-library
+07-05-2024 09:15:22 [www.onlyup.website][info] Preparing to upload a file (/home/ji533578/onlyup.website/www/wp-content/uploads/2022/11/EARTH-STORE.png) to a remote server (server_1).
+07-05-2024 09:15:22 [www.onlyup.website][info] File successfully uploaded to remote server (server_1).
+07-05-2024 09:15:22 [www.onlyup.website][info] Preparing to upload a file (/home/ji533578/onlyup.website/www/wp-content/uploads/2022/11/EARTH-STORE-150x70.png) to a remote server (server_1).
+07-05-2024 09:15:22 [www.onlyup.website][info] File successfully uploaded to remote server (server_1).
+07-05-2024 09:15:22 [www.onlyup.website][info] Preparing to upload a file (/home/ji533578/onlyup.website/www/wp-content/uploads/2022/11/EARTH-STORE-300x53.png) to a remote server (server_1).
+07-05-2024 09:15:22 [www.onlyup.website][info] File successfully uploaded to remote server (server_1).
+07-05-2024 09:15:22 [www.onlyup.website][debug] New queue created #5, attributes values: {"server_id":null,"object_id":"1290","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":9270,"final_size":7239,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":5097,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715062522}
+07-05-2024 09:15:22 [www.onlyup.website][info] End bulk optimization process! Scope: media-library. Remain: 25
+-------------------------------
+07-05-2024 09:15:23 [www.onlyup.website][info] Start bulk optimization process! Scope: media-library
+07-05-2024 09:15:23 [www.onlyup.website][info] Try to create backup directory. Backup dir: (/home/ji533578/onlyup.website/www/wp-content/uploads/wio_backup/2023/01)
+07-05-2024 09:15:23 [www.onlyup.website][info] Preparing to upload a file (/home/ji533578/onlyup.website/www/wp-content/uploads/2023/01/Screen-Shot-2023-01-19-at-8.22.49-PM.png) to a remote server (server_1).
+07-05-2024 09:15:23 [www.onlyup.website][info] File successfully uploaded to remote server (server_1).
+07-05-2024 09:15:23 [www.onlyup.website][info] Preparing to upload a file (/home/ji533578/onlyup.website/www/wp-content/uploads/2023/01/Screen-Shot-2023-01-19-at-8.22.49-PM-150x84.png) to a remote server (server_1).
+07-05-2024 09:15:23 [www.onlyup.website][info] File successfully uploaded to remote server (server_1).
+07-05-2024 09:15:23 [www.onlyup.website][debug] New queue created #6, attributes values: {"server_id":null,"object_id":"1335","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":6200,"final_size":1307,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":1,\"original_main_size\":5852,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715062523}
+07-05-2024 09:15:23 [www.onlyup.website][info] End bulk optimization process! Scope: media-library. Remain: 24
+-------------------------------
+07-05-2024 09:15:24 [www.onlyup.website][info] Start bulk optimization process! Scope: media-library
+07-05-2024 09:15:24 [www.onlyup.website][info] Preparing to upload a file (/home/ji533578/onlyup.website/www/wp-content/uploads/2023/01/Screen-Shot-2023-01-19-at-8.25.28-PM.png) to a remote server (server_1).
+07-05-2024 09:15:24 [www.onlyup.website][info] File successfully uploaded to remote server (server_1).
+07-05-2024 09:15:24 [www.onlyup.website][info] Preparing to upload a file (/home/ji533578/onlyup.website/www/wp-content/uploads/2023/01/Screen-Shot-2023-01-19-at-8.25.28-PM-150x84.png) to a remote server (server_1).
+07-05-2024 09:15:24 [www.onlyup.website][info] File successfully uploaded to remote server (server_1).
+07-05-2024 09:15:24 [www.onlyup.website][debug] New queue created #7, attributes values: {"server_id":null,"object_id":"1336","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":6194,"final_size":1307,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":1,\"original_main_size\":5846,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715062524}
+07-05-2024 09:15:24 [www.onlyup.website][info] End bulk optimization process! Scope: media-library. Remain: 23
+-------------------------------
+07-05-2024 09:15:24 [www.onlyup.website][info] Start bulk optimization process! Scope: media-library
+07-05-2024 09:15:24 [www.onlyup.website][info] Try to create backup directory. Backup dir: (/home/ji533578/onlyup.website/www/wp-content/uploads/wio_backup/2023/03)
+07-05-2024 09:15:24 [www.onlyup.website][info] Preparing to upload a file (/home/ji533578/onlyup.website/www/wp-content/uploads/2023/03/woocommerce-placeholder.png) to a remote server (server_1).
+07-05-2024 09:15:25 [www.onlyup.website][info] File successfully uploaded to remote server (server_1).
+07-05-2024 09:15:25 [www.onlyup.website][info] Preparing to upload a file (/home/ji533578/onlyup.website/www/wp-content/uploads/2023/03/woocommerce-placeholder-150x150.png) to a remote server (server_1).
+07-05-2024 09:15:25 [www.onlyup.website][info] File successfully uploaded to remote server (server_1).
+07-05-2024 09:15:25 [www.onlyup.website][info] Preparing to upload a file (/home/ji533578/onlyup.website/www/wp-content/uploads/2023/03/woocommerce-placeholder-300x300.png) to a remote server (server_1).
+07-05-2024 09:15:25 [www.onlyup.website][info] File successfully uploaded to remote server (server_1).
+07-05-2024 09:15:25 [www.onlyup.website][debug] New queue created #8, attributes values: {"server_id":null,"object_id":"1433","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":116957,"final_size":84796,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":102644,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715062525}
+07-05-2024 09:15:25 [www.onlyup.website][info] End bulk optimization process! Scope: media-library. Remain: 22
+-------------------------------
+07-05-2024 09:15:26 [www.onlyup.website][info] Start bulk optimization process! Scope: media-library
+07-05-2024 09:15:26 [www.onlyup.website][info] Try to create backup directory. Backup dir: (/home/ji533578/onlyup.website/www/wp-content/uploads/wio_backup/2024/02)
+07-05-2024 09:15:26 [www.onlyup.website][info] Preparing to upload a file (/home/ji533578/onlyup.website/www/wp-content/uploads/2024/02/earth-store-testimonial-avatar-img.jpeg) to a remote server (server_1).
+07-05-2024 09:15:26 [www.onlyup.website][info] File successfully uploaded to remote server (server_1).
+07-05-2024 09:15:26 [www.onlyup.website][debug] New queue created #9, attributes values: {"server_id":null,"object_id":"1444","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":1621,"final_size":1289,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":1621,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715062526}
+07-05-2024 09:15:26 [www.onlyup.website][info] End bulk optimization process! Scope: media-library. Remain: 21
+-------------------------------
+07-05-2024 09:15:26 [www.onlyup.website][info] Start bulk optimization process! Scope: media-library
+07-05-2024 09:15:26 [www.onlyup.website][info] Preparing to upload a file (/home/ji533578/onlyup.website/www/wp-content/uploads/2024/02/earth-store-testimonials-avatar-img-2.jpeg) to a remote server (server_1).
+07-05-2024 09:15:26 [www.onlyup.website][info] File successfully uploaded to remote server (server_1).
+07-05-2024 09:15:27 [www.onlyup.website][debug] New queue created #10, attributes values: {"server_id":null,"object_id":"1445","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":2086,"final_size":1555,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":2086,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715062527}
+07-05-2024 09:15:27 [www.onlyup.website][info] End bulk optimization process! Scope: media-library. Remain: 20
+-------------------------------
+07-05-2024 09:15:27 [www.onlyup.website][info] Start bulk optimization process! Scope: media-library
+07-05-2024 09:15:27 [www.onlyup.website][info] Preparing to upload a file (/home/ji533578/onlyup.website/www/wp-content/uploads/2024/02/earth-store-testimonials-avatar-img-1.jpeg) to a remote server (server_1).
+07-05-2024 09:15:27 [www.onlyup.website][info] File successfully uploaded to remote server (server_1).
+07-05-2024 09:15:27 [www.onlyup.website][debug] New queue created #11, attributes values: {"server_id":null,"object_id":"1446","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":1817,"final_size":1411,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":1817,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715062527}
+07-05-2024 09:15:27 [www.onlyup.website][info] End bulk optimization process! Scope: media-library. Remain: 19
+-------------------------------
+07-05-2024 09:15:28 [www.onlyup.website][info] Start bulk optimization process! Scope: media-library
+07-05-2024 09:15:28 [www.onlyup.website][info] Try to create backup directory. Backup dir: (/home/ji533578/onlyup.website/www/wp-content/uploads/wio_backup/2024/03)
+07-05-2024 09:15:28 [www.onlyup.website][info] Preparing to upload a file (/home/ji533578/onlyup.website/www/wp-content/uploads/2024/03/background-scaled.jpg) to a remote server (server_1).
+07-05-2024 09:15:28 [www.onlyup.website][info] File successfully uploaded to remote server (server_1).
+07-05-2024 09:15:28 [www.onlyup.website][info] Preparing to upload a file (/home/ji533578/onlyup.website/www/wp-content/uploads/2024/03/background-150x150.jpg) to a remote server (server_1).
+07-05-2024 09:15:29 [www.onlyup.website][info] File successfully uploaded to remote server (server_1).
+07-05-2024 09:15:29 [www.onlyup.website][info] Preparing to upload a file (/home/ji533578/onlyup.website/www/wp-content/uploads/2024/03/background-300x200.jpg) to a remote server (server_1).
+07-05-2024 09:15:29 [www.onlyup.website][info] File successfully uploaded to remote server (server_1).
+07-05-2024 09:15:29 [www.onlyup.website][debug] New queue created #12, attributes values: {"server_id":null,"object_id":"1448","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":399260,"final_size":161777,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":386483,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715062529}
+07-05-2024 09:15:29 [www.onlyup.website][info] End bulk optimization process! Scope: media-library. Remain: 18
+-------------------------------
+07-05-2024 09:15:29 [www.onlyup.website][info] Start bulk optimization process! Scope: media-library
+07-05-2024 09:15:29 [www.onlyup.website][info] Preparing to upload a file (/home/ji533578/onlyup.website/www/wp-content/uploads/2024/03/bg2-scaled.jpg) to a remote server (server_1).
+07-05-2024 09:15:30 [www.onlyup.website][info] File successfully uploaded to remote server (server_1).
+07-05-2024 09:15:30 [www.onlyup.website][info] Preparing to upload a file (/home/ji533578/onlyup.website/www/wp-content/uploads/2024/03/bg2-150x150.jpg) to a remote server (server_1).
+07-05-2024 09:15:30 [www.onlyup.website][info] File successfully uploaded to remote server (server_1).
+07-05-2024 09:15:30 [www.onlyup.website][info] Preparing to upload a file (/home/ji533578/onlyup.website/www/wp-content/uploads/2024/03/bg2-300x200.jpg) to a remote server (server_1).
+07-05-2024 09:15:30 [www.onlyup.website][info] File successfully uploaded to remote server (server_1).
+07-05-2024 09:15:30 [www.onlyup.website][debug] New queue created #13, attributes values: {"server_id":null,"object_id":"1449","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":345036,"final_size":140453,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":330500,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715062530}
+07-05-2024 09:15:30 [www.onlyup.website][info] End bulk optimization process! Scope: media-library. Remain: 17
+-------------------------------
+07-05-2024 09:15:31 [www.onlyup.website][info] Start bulk optimization process! Scope: media-library
+07-05-2024 09:15:31 [www.onlyup.website][info] Preparing to upload a file (/home/ji533578/onlyup.website/www/wp-content/uploads/2024/03/couple-sitting-chair-by-snowboards-snow-covered-mountain-scaled.jpg) to a remote server (server_1).
+07-05-2024 09:15:31 [www.onlyup.website][info] File successfully uploaded to remote server (server_1).
+07-05-2024 09:15:32 [www.onlyup.website][info] Preparing to upload a file (/home/ji533578/onlyup.website/www/wp-content/uploads/2024/03/couple-sitting-chair-by-snowboards-snow-covered-mountain-150x150.jpg) to a remote server (server_1).
+07-05-2024 09:15:32 [www.onlyup.website][info] File successfully uploaded to remote server (server_1).
+07-05-2024 09:15:32 [www.onlyup.website][info] Preparing to upload a file (/home/ji533578/onlyup.website/www/wp-content/uploads/2024/03/couple-sitting-chair-by-snowboards-snow-covered-mountain-300x200.jpg) to a remote server (server_1).
+07-05-2024 09:15:32 [www.onlyup.website][info] File successfully uploaded to remote server (server_1).
+07-05-2024 09:15:32 [www.onlyup.website][debug] New queue created #14, attributes values: {"server_id":null,"object_id":"1451","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":575782,"final_size":341027,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":483953,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715062532}
+07-05-2024 09:15:32 [www.onlyup.website][info] End bulk optimization process! Scope: media-library. Remain: 16
+-------------------------------
+07-05-2024 09:15:33 [www.onlyup.website][info] Start bulk optimization process! Scope: media-library
+07-05-2024 09:15:33 [www.onlyup.website][info] Preparing to upload a file (/home/ji533578/onlyup.website/www/wp-content/uploads/2024/03/logo.png) to a remote server (server_1).
+07-05-2024 09:15:33 [www.onlyup.website][info] File successfully uploaded to remote server (server_1).
+07-05-2024 09:15:33 [www.onlyup.website][info] Preparing to upload a file (/home/ji533578/onlyup.website/www/wp-content/uploads/2024/03/logo-150x150.png) to a remote server (server_1).
+07-05-2024 09:15:33 [www.onlyup.website][info] File successfully uploaded to remote server (server_1).
+07-05-2024 09:15:33 [www.onlyup.website][info] Preparing to upload a file (/home/ji533578/onlyup.website/www/wp-content/uploads/2024/03/logo-296x300.png) to a remote server (server_1).
+07-05-2024 09:15:34 [www.onlyup.website][info] File successfully uploaded to remote server (server_1).
+07-05-2024 09:15:34 [www.onlyup.website][debug] New queue created #15, attributes values: {"server_id":null,"object_id":"1485","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":315711,"final_size":104319,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":154135,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715062534}
+07-05-2024 09:15:34 [www.onlyup.website][info] End bulk optimization process! Scope: media-library. Remain: 15
+-------------------------------
+07-05-2024 09:15:34 [www.onlyup.website][info] Start bulk optimization process! Scope: media-library
+07-05-2024 09:15:34 [www.onlyup.website][info] Preparing to upload a file (/home/ji533578/onlyup.website/www/wp-content/uploads/2024/03/cropped-logo.png) to a remote server (server_1).
+07-05-2024 09:15:34 [www.onlyup.website][info] File successfully uploaded to remote server (server_1).
+07-05-2024 09:15:35 [www.onlyup.website][info] Preparing to upload a file (/home/ji533578/onlyup.website/www/wp-content/uploads/2024/03/cropped-logo-150x150.png) to a remote server (server_1).
+07-05-2024 09:15:35 [www.onlyup.website][info] File successfully uploaded to remote server (server_1).
+07-05-2024 09:15:35 [www.onlyup.website][info] Preparing to upload a file (/home/ji533578/onlyup.website/www/wp-content/uploads/2024/03/cropped-logo-296x300.png) to a remote server (server_1).
+07-05-2024 09:15:35 [www.onlyup.website][info] File successfully uploaded to remote server (server_1).
+07-05-2024 09:15:35 [www.onlyup.website][debug] New queue created #16, attributes values: {"server_id":null,"object_id":"1486","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":313410,"final_size":104298,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":151834,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715062535}
+07-05-2024 09:15:35 [www.onlyup.website][info] End bulk optimization process! Scope: media-library. Remain: 14
+-------------------------------
+07-05-2024 09:15:36 [www.onlyup.website][info] Start bulk optimization process! Scope: media-library
+07-05-2024 09:15:36 [www.onlyup.website][info] Preparing to upload a file (/home/ji533578/onlyup.website/www/wp-content/uploads/2024/03/bg-contacts-scaled.jpg) to a remote server (server_1).
+07-05-2024 09:15:36 [www.onlyup.website][info] File successfully uploaded to remote server (server_1).
+07-05-2024 09:15:36 [www.onlyup.website][info] Preparing to upload a file (/home/ji533578/onlyup.website/www/wp-content/uploads/2024/03/bg-contacts-150x150.jpg) to a remote server (server_1).
+07-05-2024 09:15:37 [www.onlyup.website][info] File successfully uploaded to remote server (server_1).
+07-05-2024 09:15:37 [www.onlyup.website][info] Preparing to upload a file (/home/ji533578/onlyup.website/www/wp-content/uploads/2024/03/bg-contacts-300x200.jpg) to a remote server (server_1).
+07-05-2024 09:15:37 [www.onlyup.website][info] File successfully uploaded to remote server (server_1).
+07-05-2024 09:15:37 [www.onlyup.website][debug] New queue created #17, attributes values: {"server_id":null,"object_id":"1507","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":583253,"final_size":200504,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":570307,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715062537}
+07-05-2024 09:15:37 [www.onlyup.website][info] End bulk optimization process! Scope: media-library. Remain: 13
+-------------------------------
+07-05-2024 09:15:37 [www.onlyup.website][info] Start bulk optimization process! Scope: media-library
+07-05-2024 09:15:38 [www.onlyup.website][info] Preparing to upload a file (/home/ji533578/onlyup.website/www/wp-content/uploads/2024/03/about2-scaled.jpg) to a remote server (server_1).
+07-05-2024 09:15:38 [www.onlyup.website][info] File successfully uploaded to remote server (server_1).
+07-05-2024 09:15:38 [www.onlyup.website][info] Preparing to upload a file (/home/ji533578/onlyup.website/www/wp-content/uploads/2024/03/about2-150x150.jpg) to a remote server (server_1).
+07-05-2024 09:15:38 [www.onlyup.website][info] File successfully uploaded to remote server (server_1).
+07-05-2024 09:15:38 [www.onlyup.website][info] Preparing to upload a file (/home/ji533578/onlyup.website/www/wp-content/uploads/2024/03/about2-300x200.jpg) to a remote server (server_1).
+07-05-2024 09:15:38 [www.onlyup.website][info] File successfully uploaded to remote server (server_1).
+07-05-2024 09:15:39 [www.onlyup.website][debug] New queue created #18, attributes values: {"server_id":null,"object_id":"1515","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":455599,"final_size":279437,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":375536,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715062539}
+07-05-2024 09:15:39 [www.onlyup.website][info] End bulk optimization process! Scope: media-library. Remain: 12
+-------------------------------
+07-05-2024 09:15:39 [www.onlyup.website][info] Start bulk optimization process! Scope: media-library
+07-05-2024 09:15:39 [www.onlyup.website][info] Preparing to upload a file (/home/ji533578/onlyup.website/www/wp-content/uploads/2024/03/softex-black.jpg) to a remote server (server_1).
+07-05-2024 09:15:39 [www.onlyup.website][info] File successfully uploaded to remote server (server_1).
+07-05-2024 09:15:39 [www.onlyup.website][info] Preparing to upload a file (/home/ji533578/onlyup.website/www/wp-content/uploads/2024/03/softex-black-150x150.jpg) to a remote server (server_1).
+07-05-2024 09:15:39 [www.onlyup.website][info] File successfully uploaded to remote server (server_1).
+07-05-2024 09:15:40 [www.onlyup.website][info] Preparing to upload a file (/home/ji533578/onlyup.website/www/wp-content/uploads/2024/03/softex-black-200x300.jpg) to a remote server (server_1).
+07-05-2024 09:15:40 [www.onlyup.website][info] File successfully uploaded to remote server (server_1).
+07-05-2024 09:15:40 [www.onlyup.website][debug] New queue created #19, attributes values: {"server_id":null,"object_id":"1580","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":24479,"final_size":18559,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":16035,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715062540}
+07-05-2024 09:15:40 [www.onlyup.website][info] End bulk optimization process! Scope: media-library. Remain: 11
+-------------------------------
+07-05-2024 09:15:40 [www.onlyup.website][info] Start bulk optimization process! Scope: media-library
+07-05-2024 09:15:40 [www.onlyup.website][info] Preparing to upload a file (/home/ji533578/onlyup.website/www/wp-content/uploads/2024/03/0902160_02.jpg) to a remote server (server_1).
+07-05-2024 09:15:40 [www.onlyup.website][info] File successfully uploaded to remote server (server_1).
+07-05-2024 09:15:40 [www.onlyup.website][info] Preparing to upload a file (/home/ji533578/onlyup.website/www/wp-content/uploads/2024/03/0902160_02-150x150.jpg) to a remote server (server_1).
+07-05-2024 09:15:41 [www.onlyup.website][info] File successfully uploaded to remote server (server_1).
+07-05-2024 09:15:41 [www.onlyup.website][info] Preparing to upload a file (/home/ji533578/onlyup.website/www/wp-content/uploads/2024/03/0902160_02-200x300.jpg) to a remote server (server_1).
+07-05-2024 09:15:41 [www.onlyup.website][info] File successfully uploaded to remote server (server_1).
+07-05-2024 09:15:41 [www.onlyup.website][debug] New queue created #20, attributes values: {"server_id":null,"object_id":"1584","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":34079,"final_size":25997,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":23893,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715062541}
+07-05-2024 09:15:41 [www.onlyup.website][info] End bulk optimization process! Scope: media-library. Remain: 10
+-------------------------------
+07-05-2024 09:15:41 [www.onlyup.website][info] Start bulk optimization process! Scope: media-library
+07-05-2024 09:15:42 [www.onlyup.website][info] Preparing to upload a file (/home/ji533578/onlyup.website/www/wp-content/uploads/2024/03/bgaboujt2-scaled.jpg) to a remote server (server_1).
+07-05-2024 09:15:42 [www.onlyup.website][info] File successfully uploaded to remote server (server_1).
+07-05-2024 09:15:42 [www.onlyup.website][info] Preparing to upload a file (/home/ji533578/onlyup.website/www/wp-content/uploads/2024/03/bgaboujt2-150x150.jpg) to a remote server (server_1).
+07-05-2024 09:15:42 [www.onlyup.website][info] File successfully uploaded to remote server (server_1).
+07-05-2024 09:15:42 [www.onlyup.website][info] Preparing to upload a file (/home/ji533578/onlyup.website/www/wp-content/uploads/2024/03/bgaboujt2-300x178.jpg) to a remote server (server_1).
+07-05-2024 09:15:42 [www.onlyup.website][info] File successfully uploaded to remote server (server_1).
+07-05-2024 09:15:42 [www.onlyup.website][debug] New queue created #21, attributes values: {"server_id":null,"object_id":"1635","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":386371,"final_size":154662,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":372535,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715062542}
+07-05-2024 09:15:42 [www.onlyup.website][info] End bulk optimization process! Scope: media-library. Remain: 9
+-------------------------------
+07-05-2024 09:15:43 [www.onlyup.website][info] Start bulk optimization process! Scope: media-library
+07-05-2024 09:15:43 [www.onlyup.website][info] Preparing to upload a file (/home/ji533578/onlyup.website/www/wp-content/uploads/2024/03/bg1-scaled.jpg) to a remote server (server_1).
+07-05-2024 09:15:43 [www.onlyup.website][info] File successfully uploaded to remote server (server_1).
+07-05-2024 09:15:43 [www.onlyup.website][info] Preparing to upload a file (/home/ji533578/onlyup.website/www/wp-content/uploads/2024/03/bg1-150x150.jpg) to a remote server (server_1).
+07-05-2024 09:15:44 [www.onlyup.website][info] File successfully uploaded to remote server (server_1).
+07-05-2024 09:15:44 [www.onlyup.website][info] Preparing to upload a file (/home/ji533578/onlyup.website/www/wp-content/uploads/2024/03/bg1-300x200.jpg) to a remote server (server_1).
+07-05-2024 09:15:44 [www.onlyup.website][info] File successfully uploaded to remote server (server_1).
+07-05-2024 09:15:44 [www.onlyup.website][debug] New queue created #22, attributes values: {"server_id":null,"object_id":"1643","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":343273,"final_size":141738,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":331979,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715062544}
+07-05-2024 09:15:44 [www.onlyup.website][info] End bulk optimization process! Scope: media-library. Remain: 8
+-------------------------------
+07-05-2024 09:15:44 [www.onlyup.website][info] Start bulk optimization process! Scope: media-library
+07-05-2024 09:15:44 [www.onlyup.website][info] Preparing to upload a file (/home/ji533578/onlyup.website/www/wp-content/uploads/2024/03/yth05_micro-mini-base1.jpg) to a remote server (server_1).
+07-05-2024 09:15:45 [www.onlyup.website][info] File successfully uploaded to remote server (server_1).
+07-05-2024 09:15:45 [www.onlyup.website][info] Preparing to upload a file (/home/ji533578/onlyup.website/www/wp-content/uploads/2024/03/yth05_micro-mini-base1-150x150.jpg) to a remote server (server_1).
+07-05-2024 09:15:45 [www.onlyup.website][info] File successfully uploaded to remote server (server_1).
+07-05-2024 09:15:45 [www.onlyup.website][info] Preparing to upload a file (/home/ji533578/onlyup.website/www/wp-content/uploads/2024/03/yth05_micro-mini-base1-300x300.jpg) to a remote server (server_1).
+07-05-2024 09:15:45 [www.onlyup.website][info] File successfully uploaded to remote server (server_1).
+07-05-2024 09:15:45 [www.onlyup.website][debug] New queue created #23, attributes values: {"server_id":null,"object_id":"1663","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":208558,"final_size":118644,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":164590,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715062545}
+07-05-2024 09:15:45 [www.onlyup.website][info] End bulk optimization process! Scope: media-library. Remain: 7
+-------------------------------
+07-05-2024 09:15:46 [www.onlyup.website][info] Start bulk optimization process! Scope: media-library
+07-05-2024 09:15:46 [www.onlyup.website][info] Preparing to upload a file (/home/ji533578/onlyup.website/www/wp-content/uploads/2024/03/yth05_micro-mini-base2.jpg) to a remote server (server_1).
+07-05-2024 09:15:46 [www.onlyup.website][info] File successfully uploaded to remote server (server_1).
+07-05-2024 09:15:46 [www.onlyup.website][info] Preparing to upload a file (/home/ji533578/onlyup.website/www/wp-content/uploads/2024/03/yth05_micro-mini-base2-150x150.jpg) to a remote server (server_1).
+07-05-2024 09:15:46 [www.onlyup.website][info] File successfully uploaded to remote server (server_1).
+07-05-2024 09:15:46 [www.onlyup.website][info] Preparing to upload a file (/home/ji533578/onlyup.website/www/wp-content/uploads/2024/03/yth05_micro-mini-base2-300x300.jpg) to a remote server (server_1).
+07-05-2024 09:15:46 [www.onlyup.website][info] File successfully uploaded to remote server (server_1).
+07-05-2024 09:15:46 [www.onlyup.website][debug] New queue created #24, attributes values: {"server_id":null,"object_id":"1664","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":273523,"final_size":127818,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":234264,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715062546}
+07-05-2024 09:15:46 [www.onlyup.website][info] End bulk optimization process! Scope: media-library. Remain: 6
+-------------------------------
+07-05-2024 09:15:47 [www.onlyup.website][info] Start bulk optimization process! Scope: media-library
+07-05-2024 09:15:47 [www.onlyup.website][info] Preparing to upload a file (/home/ji533578/onlyup.website/www/wp-content/uploads/2024/03/22_23_rst04_boaf_142_-1000x1000-1.jpg) to a remote server (server_1).
+07-05-2024 09:15:47 [www.onlyup.website][info] File successfully uploaded to remote server (server_1).
+07-05-2024 09:15:47 [www.onlyup.website][info] Preparing to upload a file (/home/ji533578/onlyup.website/www/wp-content/uploads/2024/03/22_23_rst04_boaf_142_-1000x1000-1-150x150.jpg) to a remote server (server_1).
+07-05-2024 09:15:47 [www.onlyup.website][info] File successfully uploaded to remote server (server_1).
+07-05-2024 09:15:48 [www.onlyup.website][info] Preparing to upload a file (/home/ji533578/onlyup.website/www/wp-content/uploads/2024/03/22_23_rst04_boaf_142_-1000x1000-1-300x300.jpg) to a remote server (server_1).
+07-05-2024 09:15:48 [www.onlyup.website][info] File successfully uploaded to remote server (server_1).
+07-05-2024 09:15:48 [www.onlyup.website][debug] New queue created #25, attributes values: {"server_id":null,"object_id":"1675","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":367906,"final_size":137161,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":351095,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715062548}
+07-05-2024 09:15:48 [www.onlyup.website][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+07-05-2024 09:15:48 [www.onlyup.website][info] Start bulk optimization process! Scope: media-library
+07-05-2024 09:15:48 [www.onlyup.website][info] Preparing to upload a file (/home/ji533578/onlyup.website/www/wp-content/uploads/2024/03/cropped-logo-1.png) to a remote server (server_1).
+07-05-2024 09:15:49 [www.onlyup.website][info] File successfully uploaded to remote server (server_1).
+07-05-2024 09:15:49 [www.onlyup.website][info] Preparing to upload a file (/home/ji533578/onlyup.website/www/wp-content/uploads/2024/03/cropped-logo-1-150x150.png) to a remote server (server_1).
+07-05-2024 09:15:49 [www.onlyup.website][info] File successfully uploaded to remote server (server_1).
+07-05-2024 09:15:49 [www.onlyup.website][info] Preparing to upload a file (/home/ji533578/onlyup.website/www/wp-content/uploads/2024/03/cropped-logo-1-300x300.png) to a remote server (server_1).
+07-05-2024 09:15:49 [www.onlyup.website][info] File successfully uploaded to remote server (server_1).
+07-05-2024 09:15:49 [www.onlyup.website][debug] New queue created #26, attributes values: {"server_id":null,"object_id":"1683","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":453246,"final_size":156709,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":291753,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715062549}
+07-05-2024 09:15:49 [www.onlyup.website][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+07-05-2024 09:15:50 [www.onlyup.website][info] Start bulk optimization process! Scope: media-library
+07-05-2024 09:15:50 [www.onlyup.website][info] Try to create backup directory. Backup dir: (/home/ji533578/onlyup.website/www/wp-content/uploads/wio_backup/2024/04)
+07-05-2024 09:15:50 [www.onlyup.website][info] Preparing to upload a file (/home/ji533578/onlyup.website/www/wp-content/uploads/2024/04/child-sliding-snow-scaled.jpg) to a remote server (server_1).
+07-05-2024 09:15:50 [www.onlyup.website][info] File successfully uploaded to remote server (server_1).
+07-05-2024 09:15:51 [www.onlyup.website][info] Preparing to upload a file (/home/ji533578/onlyup.website/www/wp-content/uploads/2024/04/child-sliding-snow-150x150.jpg) to a remote server (server_1).
+07-05-2024 09:15:51 [www.onlyup.website][info] File successfully uploaded to remote server (server_1).
+07-05-2024 09:15:51 [www.onlyup.website][info] Preparing to upload a file (/home/ji533578/onlyup.website/www/wp-content/uploads/2024/04/child-sliding-snow-214x300.jpg) to a remote server (server_1).
+07-05-2024 09:15:51 [www.onlyup.website][info] File successfully uploaded to remote server (server_1).
+07-05-2024 09:15:51 [www.onlyup.website][debug] New queue created #27, attributes values: {"server_id":null,"object_id":"1713","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":387705,"final_size":222516,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":334407,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715062551}
+07-05-2024 09:15:51 [www.onlyup.website][info] End bulk optimization process! Scope: media-library. Remain: 3
+-------------------------------
+07-05-2024 09:15:52 [www.onlyup.website][info] Start bulk optimization process! Scope: media-library
+07-05-2024 09:15:52 [www.onlyup.website][info] Preparing to upload a file (/home/ji533578/onlyup.website/www/wp-content/uploads/2024/04/1720_oooo.plus_.png) to a remote server (server_1).
+07-05-2024 09:15:52 [www.onlyup.website][info] File successfully uploaded to remote server (server_1).
+07-05-2024 09:15:52 [www.onlyup.website][info] Preparing to upload a file (/home/ji533578/onlyup.website/www/wp-content/uploads/2024/04/1720_oooo.plus_-150x150.png) to a remote server (server_1).
+07-05-2024 09:15:53 [www.onlyup.website][info] File successfully uploaded to remote server (server_1).
+07-05-2024 09:15:53 [www.onlyup.website][info] Preparing to upload a file (/home/ji533578/onlyup.website/www/wp-content/uploads/2024/04/1720_oooo.plus_-300x300.png) to a remote server (server_1).
+07-05-2024 09:15:53 [www.onlyup.website][info] File successfully uploaded to remote server (server_1).
+07-05-2024 09:15:53 [www.onlyup.website][debug] New queue created #28, attributes values: {"server_id":null,"object_id":"1714","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":846367,"final_size":290262,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":696227,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715062553}
+07-05-2024 09:15:53 [www.onlyup.website][info] End bulk optimization process! Scope: media-library. Remain: 2
+-------------------------------
+07-05-2024 09:15:54 [www.onlyup.website][info] Start bulk optimization process! Scope: media-library
+07-05-2024 09:15:54 [www.onlyup.website][info] Preparing to upload a file (/home/ji533578/onlyup.website/www/wp-content/uploads/2024/04/298_oooo.plus_.png) to a remote server (server_1).
+07-05-2024 09:15:54 [www.onlyup.website][info] File successfully uploaded to remote server (server_1).
+07-05-2024 09:15:54 [www.onlyup.website][info] Preparing to upload a file (/home/ji533578/onlyup.website/www/wp-content/uploads/2024/04/298_oooo.plus_-150x150.png) to a remote server (server_1).
+07-05-2024 09:15:55 [www.onlyup.website][info] File successfully uploaded to remote server (server_1).
+07-05-2024 09:15:55 [www.onlyup.website][info] Preparing to upload a file (/home/ji533578/onlyup.website/www/wp-content/uploads/2024/04/298_oooo.plus_-300x300.png) to a remote server (server_1).
+07-05-2024 09:15:55 [www.onlyup.website][info] File successfully uploaded to remote server (server_1).
+07-05-2024 09:15:55 [www.onlyup.website][debug] New queue created #29, attributes values: {"server_id":null,"object_id":"1715","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":955643,"final_size":307409,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":785585,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715062555}
+07-05-2024 09:15:55 [www.onlyup.website][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+07-05-2024 09:15:56 [www.onlyup.website][info] Start bulk optimization process! Scope: media-library
+07-05-2024 09:15:56 [www.onlyup.website][info] Preparing to upload a file (/home/ji533578/onlyup.website/www/wp-content/uploads/2024/04/171_oooo.plus_.png) to a remote server (server_1).
+07-05-2024 09:15:56 [www.onlyup.website][info] File successfully uploaded to remote server (server_1).
+07-05-2024 09:15:56 [www.onlyup.website][info] Preparing to upload a file (/home/ji533578/onlyup.website/www/wp-content/uploads/2024/04/171_oooo.plus_-150x150.png) to a remote server (server_1).
+07-05-2024 09:15:57 [www.onlyup.website][info] File successfully uploaded to remote server (server_1).
+07-05-2024 09:15:57 [www.onlyup.website][info] Preparing to upload a file (/home/ji533578/onlyup.website/www/wp-content/uploads/2024/04/171_oooo.plus_-300x300.png) to a remote server (server_1).
+07-05-2024 09:15:57 [www.onlyup.website][info] File successfully uploaded to remote server (server_1).
+07-05-2024 09:15:57 [www.onlyup.website][debug] New queue created #30, attributes values: {"server_id":null,"object_id":"1716","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":1015474,"final_size":309680,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":847314,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715062557}
+07-05-2024 09:15:57 [www.onlyup.website][info] End bulk optimization process! Scope: media-library. Remain: 0
+-------------------------------
